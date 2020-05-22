@@ -26,7 +26,7 @@ function App() {
   return (
     <>
       <p>
-        Você tem <strong> {techSize} </strong> tecnologias!{' '}
+        Você tem <strong>{techSize}</strong> tecnologias!
       </p>
       <div>
         {techs.map((tech, i) => (
