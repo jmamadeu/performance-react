@@ -1,4 +1,4 @@
-# Rocketshoes
+# Perfomance React
 
 Example of how to use react-hooks in a project to get more performance.
 
